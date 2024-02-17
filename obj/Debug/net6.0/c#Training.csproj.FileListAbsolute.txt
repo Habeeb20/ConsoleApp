@@ -1,0 +1,15 @@
+C:\Users\ademo\Desktop\c#Training\bin\Debug\net6.0\c#Training.exe
+C:\Users\ademo\Desktop\c#Training\bin\Debug\net6.0\c#Training.deps.json
+C:\Users\ademo\Desktop\c#Training\bin\Debug\net6.0\c#Training.runtimeconfig.json
+C:\Users\ademo\Desktop\c#Training\bin\Debug\net6.0\c#Training.dll
+C:\Users\ademo\Desktop\c#Training\bin\Debug\net6.0\c#Training.pdb
+C:\Users\ademo\Desktop\c#Training\obj\Debug\net6.0\c#Training.csproj.AssemblyReference.cache
+C:\Users\ademo\Desktop\c#Training\obj\Debug\net6.0\c#Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ademo\Desktop\c#Training\obj\Debug\net6.0\c#Training.AssemblyInfoInputs.cache
+C:\Users\ademo\Desktop\c#Training\obj\Debug\net6.0\c#Training.AssemblyInfo.cs
+C:\Users\ademo\Desktop\c#Training\obj\Debug\net6.0\c#Training.csproj.CoreCompileInputs.cache
+C:\Users\ademo\Desktop\c#Training\obj\Debug\net6.0\c#Training.dll
+C:\Users\ademo\Desktop\c#Training\obj\Debug\net6.0\refint\c#Training.dll
+C:\Users\ademo\Desktop\c#Training\obj\Debug\net6.0\c#Training.pdb
+C:\Users\ademo\Desktop\c#Training\obj\Debug\net6.0\c#Training.genruntimeconfig.cache
+C:\Users\ademo\Desktop\c#Training\obj\Debug\net6.0\ref\c#Training.dll
